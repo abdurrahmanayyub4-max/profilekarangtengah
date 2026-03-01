@@ -94,7 +94,7 @@ export default function Fasilitas() {
           </h1>
           <div className="h-1.5 w-32 bg-gradient-to-r from-blue-600 to-cyan-500 rounded-full mx-auto mb-6"></div>
           <p className="text-gray-600 text-lg max-w-3xl mx-auto leading-relaxed">
-            Fasilitas publik yang tersedia di Padukuhan Karangtengah untuk mendukung kehidupan berkualitas masyarakat.
+            Fasilitas publik yang tersedia di Padukuhan Karangtengah untuk mendukung kehidupan berkualitas bagi masyarakat.
           </p>
         </div>
 
